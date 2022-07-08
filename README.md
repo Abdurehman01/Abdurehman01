@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdurehman01
 - 👀 I’m interested in  software development
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on Gondar,Ethiopia
 - 📫 contact me abdellsiraje00@gmail.com
 
 <!---
